@@ -1,0 +1,13 @@
+@import url('base.css');
+
+
+
+
+.content{
+	
+	height: 300px;
+	background:red;
+	float: left;
+	border-right: 12px solid #fff;
+	border-bottom: 12px solid #fff;
+}
